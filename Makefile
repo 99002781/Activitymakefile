@@ -5,7 +5,7 @@ PROJECT_NAME = function
 BUILD = build
 
 # All source code files
-SRC = function.c
+SRC = main.c
 
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
 
