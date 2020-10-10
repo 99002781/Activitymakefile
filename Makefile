@@ -5,8 +5,7 @@ PROJECT_NAME = function
 BUILD = build
 
 # All source code files
-SRC = main.c\
-function.c\
+SRC = demo.c
 
 # All test source files
 #TEST_SRC = src/function.c\
